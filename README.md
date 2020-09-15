@@ -1,6 +1,5 @@
 # Notebook NLP
-* [Notebook Alex - Press here to open it in Colab](https://colab.research.google.com/github/DataScience-WINM2020/NLP_Kaggle_Challange/blob/alex/nlp_V0.1.ipynb)
-
+* [Notebook Alex - Press here to open it in Colab](https://colab.research.google.com/github/AlexSperka/Kaggle_Challange_NLP_Disaster_Tweets/blob/master/nlp_colab_notebook_V1.ipynb)
 
 # Introduction
 
